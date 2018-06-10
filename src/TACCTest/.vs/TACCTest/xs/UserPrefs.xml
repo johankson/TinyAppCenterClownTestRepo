@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7C00EAF0-07E2-405C-8408-B11E283CD531}|Default">
+  <MonoDevelop.Ide.ItemProperties.TACCTest FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TACCTest/MainPage.xaml">
+    <Files>
+      <File FileName="TACCTest/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TACCTest/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TACCTest.Android PreferredExecutionTarget="Android.Pixel_2_API_26" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TACCTest.iOS FirstBuild="True" />
+</Properties>
